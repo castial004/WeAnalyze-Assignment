@@ -40,3 +40,6 @@ This application includes:
 
 # Screeshot
 ![alt text](image.png)
+
+# Vercel Hosted Link
+https://we-analyze-assignment-one.vercel.app/
